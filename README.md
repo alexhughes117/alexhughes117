@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexhughes117
+- 👀 I’m interested in video game and web app development
+- 🌱 I’m currently learning Flask/Python, HTML/CSS, JavaScript, SQLAlchemy/PostgreSQL
+- 💞️ I’m looking to collaborate on either a video game or a good web app idea
+- 📫 How to reach me: email me at aathughes@gmail.com or alex@drivebigrigs.com
